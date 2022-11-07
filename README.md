@@ -1,4 +1,5 @@
 # EmpresaSetoresCores
+FLORIPA+TEC
 
 Uma empresa de eventos está montando um programa para realizar a distribuição dos convidados em setores de acordo com os dados abaixo:
 Menores de 14 anos: setor amarelo
