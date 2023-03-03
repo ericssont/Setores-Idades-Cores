@@ -1,6 +1,8 @@
 # Criação de setores por idade.
 ### Futuro-DEV | Floripa+TEC | Senai
 
+#### Setores separados por idade e identificados por cores
+
 Uma empresa de eventos está montando um programa para realizar a distribuição dos convidados em setores de acordo com os dados abaixo:</br>
 Menores de 14 anos: setor amarelo;</br>
 Maiores de 14 anos e menores de 18 anos: setor azul;</br>
